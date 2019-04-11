@@ -62,7 +62,7 @@ export default {
   ** Axios module configuration
   */
   axios: {
-    // baseURL:'https://gorest.co.in/public-api'
+    baseURL:'https://gorest.co.in/public-api'
   },
 
   /*
